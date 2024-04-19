@@ -1,1 +1,2 @@
 version inicial f2
+linea 2 de f2
